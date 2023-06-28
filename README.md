@@ -8,7 +8,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Computer%20Science%20Student;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
 - 🏢 I'm an Engineering student at Alexandria University. 
@@ -40,8 +40,8 @@
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefdergham&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moeayman13&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
-<a href="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
+<a href="https://komarev.com/ghpvc/?username=moeayman13&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=moeayman&style=for-the-badge">
 </a>
